@@ -7,6 +7,14 @@
       "id": 5
     }
   ],
+  "player": [
+    {
+      "name": "Ashok",
+      "level": "easy",
+      "score": 0,
+      "id": 1
+    }
+  ],
   "transcation":[],
   "recipes": [
     {
