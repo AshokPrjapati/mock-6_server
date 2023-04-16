@@ -16,6 +16,40 @@
     }
   ],
   "transcation":[],
+  "grocery": [
+    {
+      "name": "Tamato",
+      "price": "20",
+      "qty": "100",
+      "description": "Fresh Tamato",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Tomato_je.jpg",
+      "id": 1
+    },
+    {
+      "name": "Cabbage",
+      "price": "10",
+      "qty": "50",
+      "description": "Fresh Cabbage",
+      "image": "https://www.eatrightbasket.com/wp-content/uploads/2019/02/SS_Veg_26.jpg",
+      "id": 2
+    },
+    {
+      "name": "Beetroot",
+      "price": "25",
+      "qty": "28",
+      "description": "Fresh Beetroot",
+      "image": "https://m.media-amazon.com/images/I/616PXhYj8iL._SX679_.jpg",
+      "id": 4
+    },
+    {
+      "name": "Onion",
+      "price": "12",
+      "qty": "100",
+      "description": "New Onion",
+      "image": "https://static.toiimg.com/thumb/msid-92775530,width-1070,height-580,imgsize-147380,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+      "id": 5
+    }
+  ],
   "recipes": [
     {
       "id": 1,
